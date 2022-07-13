@@ -24,3 +24,10 @@
 |Pysnark|https://github.com/Charterhouse/pysnark|63|Python、C++|Pinocchio|
 
 > 因为我本人更擅长使用 Javascript，因此本次报告主要围绕基于 JavaScript 的 snarkjs
+
+> 如何使用 snarkjs，本次报告不做基础的 tutorial，因为官方和网络上有大量的基础使用教程，可以参见以下网址：
+
+- [snarkjs官方教程](https://www.npmjs.com/package/snarkjs)
+- [中文博客-登链社区](https://learnblockchain.cn/article/1078)
+- [中文博客-CSDN](https://blog.csdn.net/simmel_92/article/details/119514688)
+
